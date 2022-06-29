@@ -67,16 +67,12 @@ namespace xUnitTestString
         [Fact]
         public void Test5()
         {
-            // Arrange  
-            string str = "NULL";
-            int expectedValue = 4;
-
-            // Act  
-            int returned_value = helper.findLength(str);
-
-            //Assert  
-            Assert.Equal(expectedValue, returned_value);
-
+           
+            string str = null;
+            var exception = Assert.Throws<NullReferenceException>(() => helper.findLength(str));
+            Assert.Equal("Object reference not set to an instance of an object.", exception.Message);
+           
+ 
         }
     }
 }

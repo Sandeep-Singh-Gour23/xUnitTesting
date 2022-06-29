@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NEySHTyqB8X4lD7le0CaTVrMn/n6a/0zhQEXcnghy7E7nfXX+CaK/xaenr9kfz7fLc3tdEJuXRs7LUp3n8e1yw==",
+  "dgSpecHash": "jbXSkvpXWrtflWTlgMGm5t3bsZVN2oEM7wnghs/I2ryMZY8D6Jy0COXnf1AzzbNA66UeCskqXYUAlBS3VTfeLA==",
   "success": true,
-  "projectFilePath": "D:\\Augmento Labs\\xUnitTestString\\xUnitTestString.csproj",
+  "projectFilePath": "D:\\Augmento Labs\\UnitTesting\\xUnitTestString\\xUnitTestString.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",

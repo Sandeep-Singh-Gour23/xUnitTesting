@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Augmento Labs\\xUnitTestString\\xUnitTestString.csproj": {}
+    "D:\\Augmento Labs\\UnitTesting\\xUnitTestString\\xUnitTestString.csproj": {}
   },
   "projects": {
-    "D:\\Augmento Labs\\UnitTestingForString\\UnitTestingForString.csproj": {
+    "D:\\Augmento Labs\\UnitTesting\\UnitTestingForString\\UnitTestingForString.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Augmento Labs\\UnitTestingForString\\UnitTestingForString.csproj",
+        "projectUniqueName": "D:\\Augmento Labs\\UnitTesting\\UnitTestingForString\\UnitTestingForString.csproj",
         "projectName": "UnitTestingForString",
-        "projectPath": "D:\\Augmento Labs\\UnitTestingForString\\UnitTestingForString.csproj",
+        "projectPath": "D:\\Augmento Labs\\UnitTesting\\UnitTestingForString\\UnitTestingForString.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\Augmento Labs\\UnitTestingForString\\obj\\",
+        "outputPath": "D:\\Augmento Labs\\UnitTesting\\UnitTestingForString\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "D:\\Augmento Labs\\xUnitTestString\\xUnitTestString.csproj": {
+    "D:\\Augmento Labs\\UnitTesting\\xUnitTestString\\xUnitTestString.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Augmento Labs\\xUnitTestString\\xUnitTestString.csproj",
+        "projectUniqueName": "D:\\Augmento Labs\\UnitTesting\\xUnitTestString\\xUnitTestString.csproj",
         "projectName": "xUnitTestString",
-        "projectPath": "D:\\Augmento Labs\\xUnitTestString\\xUnitTestString.csproj",
+        "projectPath": "D:\\Augmento Labs\\UnitTesting\\xUnitTestString\\xUnitTestString.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\Augmento Labs\\xUnitTestString\\obj\\",
+        "outputPath": "D:\\Augmento Labs\\UnitTesting\\xUnitTestString\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Augmento Labs\\UnitTestingForString\\UnitTestingForString.csproj": {
-                "projectPath": "D:\\Augmento Labs\\UnitTestingForString\\UnitTestingForString.csproj"
+              "D:\\Augmento Labs\\UnitTesting\\UnitTestingForString\\UnitTestingForString.csproj": {
+                "projectPath": "D:\\Augmento Labs\\UnitTesting\\UnitTestingForString\\UnitTestingForString.csproj"
               }
             }
           }
